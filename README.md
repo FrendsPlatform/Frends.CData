@@ -2,10 +2,9 @@
    - [Installing](#installing)
    - [Contributing](#contributing)
    - [Documentation](#documentation)
-     - [CData.ExecuteQuery](#sqlexecutequery) 
-     - [CData.ExecuteProcedure](#sqlexecuteprocedure) 
-     - [CData.BulkInsert](#sqlbulkinsert)
-     - [CData.BatchOperation](#sqlbatchoperation) 
+     - [CData.ExecuteQuery](#cdataexecutequery) 
+     - [CData.ExecuteProcedure](#cdataexecuteprocedure) 
+     - [CData.BatchOperation](#cdatabatchoperation) 
      - [List of supported CData drivers](#list-of-cdata-drivers-with-a-task-implementation)
    - [License](#license)
 
@@ -121,8 +120,7 @@ The second name 'Adam' can be now be accessed by #result[1].Name in the process 
 Integer - Number of affected rows
 
 #### Example usage
-![BatchOperationExample.png](https://cloud.githubusercontent.com/assets/6636662/26483905/
-3bb0d73c-41f8-11e7-95c9-fe554898f97f.png)
+![BatchOperationExample.png](/batchoperation-example.png)
 
 ## List of CData drivers with a Task implementation
 
